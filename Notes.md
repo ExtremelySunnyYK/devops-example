@@ -16,3 +16,5 @@ How to build CI/CD Pipeline?
 - run tests automatically
 
 ## Github Actions
+
+- Its pretty easy, just create a folder `github/workflow/workflow.yml` in your repo
